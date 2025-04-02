@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  langwatch:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-04-02T21:26:22.097196311Z"
+    description: Helm chart for LangWatch application
+    digest: 304e53832fbd61bfbbf82aa59b8a880ac2543616f0811138b4f27b8bb7c89613
+    name: langwatch
+    type: application
+    urls:
+    - https://github.com/langwatch/langwatch/releases/download/langwatch-0.1.1/langwatch-0.1.1.tgz
+    version: 0.1.1
+generated: "2025-04-02T21:26:22.09720148Z"
