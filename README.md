@@ -6,8 +6,11 @@
 <a href="https://www.npmjs.com/package/langwatch"><img src="https://img.shields.io/npm/v/langwatch?color=007EC6" alt="LangWatch TypeScript SDK version"></a>
 </p>
 
-LangWatch is an open platform for **Observing**, **Evaluating** and **Optimizing** your LLM and Agentic applications. We offer:
+LangWatch is an open platform for **Observing**, **Evaluating** and **Optimizing** your LLM and Agentic applications.
 
+![A view of a trace in the LangWatch app](assets/trace-view.webp)
+
+We offer:
 - [**Observability**](https://docs.langwatch.ai/integration/overview) - Add tracing to your LLM, based on the OpenTelemetry standard, allowing LangWatch to provide real-time powers.
 - [**Evaluation**](https://docs.langwatch.ai/llm-evaluation/offline-evaluation) - Run real-time and offline evaluations against production or synthetic datasets. Compare performance across various matrixes (prompts, modules, hosting providers, and complete LLM pipelines).
 - [**Datasets**](https://docs.langwatch.ai/features/datasets) - Automatically created from traced messages, or upload, datasets which can be used across the platform for evals.
@@ -108,7 +111,6 @@ def main():
 
 ### See your traces in LangWatch
 
-![A view of a trace in the LangWatch app](assets/trace-view.webp)
 
 You can also view a public share of the trace [**here**](https://app.langwatch.ai/share/454HTo7XvvbWoPkR56giP).
 
